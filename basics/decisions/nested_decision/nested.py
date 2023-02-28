@@ -16,7 +16,7 @@ while (battery_found == False):
             print("Found rubber duck but no battery")
         else:
             print("Found a wet surface but no battery")
-    elif ax1 ==("in the lab"):
+    elif ax1 == "in the lab":
         print("Where in the lab should i look?")
         ax2 = input()
         if ax2 == "on the table":
