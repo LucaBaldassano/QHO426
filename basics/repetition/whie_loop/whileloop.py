@@ -1,4 +1,4 @@
-n = int(input("How many numbers should i sum up?))
+n = int(input("How many numbers should i sum up?"))
 i = 0
 total = 0
 while(i <n):
