@@ -23,4 +23,4 @@ elif opt == 4:
 elif opt == 5:
     break
 else:
-    print("Sorry try again. No such optrion.")
+    print("Sorry try again. No such option.")
