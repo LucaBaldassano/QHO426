@@ -34,3 +34,17 @@ print(bleh)
 bleh.remove("Carrot")
 bleh.remove("Tomato")
 print(bleh)
+#Remove file by index
+bleh.pop(5) #Returns that value
+print(x)
+print(bleh)
+#Alternative way of deleting by index
+del bleh[7]
+print(bleh)
+#Check a list for particular date type/traverse the list
+lista = ["Fred", 56, True, 99.4, "Potato", True, 82]
+for item in lista:
+    if isinstance(item, int):
+        sum += item
+print(sum)
+

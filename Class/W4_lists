@@ -1,5 +1,0 @@
-#Declare empty list
-bleh = []
-meh = list()
-
-print(type(bl)
